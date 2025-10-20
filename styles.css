@@ -13,14 +13,18 @@ h1 {
      flex-wrap:wrap; 
 } 
 .project {
-    width: 30%;
-    margin: 10px;
+    width: 300px;
+    margin: 300px;
     padding: 20px 10px;
     background: white; /* pick a color */
     border-radius: 25%;
 }
 
 img{
-    height: 30%;
-    width: 20%
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    border: 2px;
+    display: block;
+    margin: auto;
 }
