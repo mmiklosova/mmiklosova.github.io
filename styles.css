@@ -21,9 +21,9 @@ h1 {
 }
 
 img{
-    height: 30%;
-    margin: 10 px
-    border: 2px solid yellow; 
+    height: 10%;
+    margin: 8px
+    border: 2px; 
     display: block;
     margin: auto
 }
