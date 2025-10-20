@@ -28,3 +28,8 @@ img{
     display: block;
     margin: auto;
 }
+
+.project p{
+    text-align:center;
+    margin:15px;
+}
