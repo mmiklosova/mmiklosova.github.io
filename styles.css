@@ -19,3 +19,11 @@ h1 {
     background: white; /* pick a color */
     border-radius: 25%;
 }
+
+img{
+    height: 30%;
+    margin: 10 px
+    border: 2px solid yellow; 
+    display: block;
+    margin: auto
+}
