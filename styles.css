@@ -1,5 +1,5 @@
 body {
-    background: #ecdbb0;
+    background: #fffdca;
     font-family: Arial, Helvetica, sans-serif;
     margin: 40 px;
 }
@@ -21,7 +21,7 @@ h1 {
 
 img{
     height: 300px;
-    width: 500px;
+    width: 420px;
     margin: 10px;
     border: 3px;
     display: block;
