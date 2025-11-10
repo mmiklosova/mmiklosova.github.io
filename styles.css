@@ -32,3 +32,23 @@ img{
     text-align:center;
     margin:15px;
 }
+
+project img{
+width: 300px;
+height: 300px;
+margin: 10px;
+border: 2px solid rgb(78, 163, 216); /* choose a color */
+display: block;
+margin: auto;
+}
+
+a { /* change the appearance of ALL links */
+text-decoration: none;
+color: purple;
+}
+.project p { /* change the appearance of paragraph tags inside .project divs */
+text-align: center;
+margin: 15px;
+}
+
+
