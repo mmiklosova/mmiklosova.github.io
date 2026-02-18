@@ -29,3 +29,11 @@ h1 {
     margin-bottom: 10px;
     font-style: normal;
 }
+
+h2 {
+    font-size: 30px;
+    color: #eb4c4c;
+    font-family: "Archivo Black", sans-serif;
+    margin-bottom: 10px;
+    font-style: normal;
+}
