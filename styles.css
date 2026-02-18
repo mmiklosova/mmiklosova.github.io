@@ -16,14 +16,15 @@
 
 
 p{
-    font-size: 30px;
+    font-size: 25px;
     color: #666464;
     font-family: "Cabin", sans-serif;
 }
 
 h1 {
     font-size: 50px;
-    font-family: "Tinos", serif;
+    color: #eb4c4c;
+    font-family: "Archivo Black", sans-serif;
     margin-bottom: 10px;
     font-style: normal;
 }
