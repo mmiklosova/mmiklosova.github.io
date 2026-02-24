@@ -46,16 +46,11 @@ h2 {
     font-family: "Cabin", sans-serif;
 }
 
-.toolbar {
+.container {
     display: flex;
     flex-wrap: inherit;
     align-items: center;
     justify-content: space-between;
-     font-size: 30px;
-    color: #eb4c4c;
-    font-family: "Archivo Black", sans-serif;
-    margin-bottom: 10px;
-    font-style: normal;
 }
 
 .about-left{
