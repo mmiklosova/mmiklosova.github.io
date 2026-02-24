@@ -38,6 +38,21 @@ h2 {
     font-style: normal;
 }
 
+.introduction{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    font-family: "Cabin", sans-serif;
+}
+
+.toolbar{
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .about-left{
   width: 48%; /* Make both sections take up equal space */
   padding: 1%;
