@@ -46,7 +46,7 @@ h2 {
     font-family: "Cabin", sans-serif;
 }
 
-.container {
+.toolbar {
     display: flex;
     flex-wrap: inherit;
     align-items: center;
