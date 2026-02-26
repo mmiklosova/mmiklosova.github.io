@@ -46,6 +46,13 @@ h2 {
     font-family: "Cabin", sans-serif;
 }
 
+.toolbar{
+    background-color: #eb4c4c;
+    padding: 10px;
+    color: white;
+    font-family: "Archivo Black", sans-serif;
+}
+
 .container {
     display: flex;
     flex-wrap: inherit;
