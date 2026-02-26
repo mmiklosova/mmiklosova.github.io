@@ -53,6 +53,17 @@ h2 {
     gap: 10px;
     font-family: "Cabin", sans-serif;
 }
+div {
+    margin-bottom: 20px;
+}
+
+.topProjects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    font-family: "Cabin", sans-serif;
+}
 
 .experience{
     display: flex;
