@@ -46,6 +46,23 @@ h2 {
     font-family: "Cabin", sans-serif;
 }
 
+.contact{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    font-family: "Cabin", sans-serif;
+}
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    font-family: "Cabin", sans-serif;
+}
+
+
 
 .container {
     display: flex;
@@ -56,7 +73,6 @@ h2 {
     text-decoration: none;
     color: #eb4c4c;
     font-family: "Archivo Black", sans-serif;
-    font-size: 20px;
 }
 
 .nav-link:hover{
