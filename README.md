@@ -12,5 +12,5 @@ This project is a portfolio built with HTML and CSS that showcases my skills and
 - fixing bugs 
 - sleek design
 - executable Java programs
-- * Angular implementation
+- Angular implementation
 <u More to come... u>
